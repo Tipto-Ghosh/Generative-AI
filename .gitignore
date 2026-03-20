@@ -210,3 +210,5 @@ __marimo__/
 Data 
 chroma_db
 Retrievers/samaple_collection
+RAG Tasks/QA System/Data
+RAG Tasks/QA System/storage 
