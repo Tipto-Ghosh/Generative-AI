@@ -6,7 +6,7 @@
 
 ### TODO:
 * Listing Date: 26-03-2026
-1. LLMChainExtractor
-2. EmbeddingsFilter
-3. create_stuff_documents_chain
-4. create_retrieval_chain
+    1. LLMChainExtractor(Done)
+    2. EmbeddingsFilter(Done)
+    3. create_stuff_documents_chain(Done)
+    4. create_retrieval_chain(Done)
