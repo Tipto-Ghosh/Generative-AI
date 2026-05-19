@@ -10,3 +10,10 @@
     2. EmbeddingsFilter(Done)
     3. create_stuff_documents_chain(Done)
     4. create_retrieval_chain(Done)
+
+* Listing Date: 29-03-2026
+    1. Reciprocal Rank Fusion
+    2. GraphDB
+    3. Knowledge Graph
+    4. Self-Querying Retriever
+    5. Corrective RAG 

@@ -1,10 +1,4 @@
-import os
-from dotenv import load_dotenv
-# from langchain_huggingface import ChatHuggingFace, HuggingFaceEndpoint
-
-load_dotenv()
-
-HF_API_KEY = os.getenv("HUGGINGFACEHUB_API_TOKEN")
-# print(HF_API_KEY)
-from huggingface_hub import login
-login(HF_API_KEY)
+import pymilvus
+from pymilvus import MilvusClient
+from milvus_model import DefaultEmbeddingFunction
+print(pymilvus.__version__)
