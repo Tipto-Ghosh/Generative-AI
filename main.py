@@ -1,4 +1,3 @@
-import pymilvus
-from pymilvus import MilvusClient
-from milvus_model import DefaultEmbeddingFunction
-print(pymilvus.__version__)
+import torch
+device = "cuda" if torch.cuda.is_available() else "cpu"
+print(f"Using device: {device}")

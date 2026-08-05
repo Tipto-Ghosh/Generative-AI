@@ -1,15 +1,14 @@
-# LangChain Core
+# LangChain
 langchain
 langchain-core
+langchain-community
+langgraph
+langgraph-checkpoint
 
-# OpenAI Integration
-langchain-openai
-openai
+# Ollama Integration
+langchain-ollama
 
-# Anthropic Integration
-langchain-anthropic
-
-# Google Gemini (PaLM) Integration
+# Google Gemini Integration
 langchain-google-genai
 google-generativeai
 
@@ -24,3 +23,4 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+pandas
